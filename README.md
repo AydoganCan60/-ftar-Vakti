@@ -38,3 +38,5 @@ Uygulama, Sabah Namaz Vakitleri sitesinden iftar ve sahur saatlerini çeker.
 Eğer ezan sesi çalmıyorsa, Ezan.wav dosyasının proje klasöründe olduğundan emin olun.
 
 Windows kullanıcıları için pygame ve playsound kütüphaneleri arasında otomatik geçiş yapılmaktadır.
+
+Sürekli olarak apiye istek atmaması için proje yerel dizininde vakitler.json adında bir json dosyası kaydeder gün geçtikçe program bunu algılayıp eskisini siler şu anki günün verisini kaydeder.

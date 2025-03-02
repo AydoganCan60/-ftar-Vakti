@@ -21,6 +21,9 @@ pip install -r requirements.txt
 ```
 ### 2️⃣ Projeyi Çalıştırın
 Daha sonra, bağımlılıkları yükledikten sonra bu komutu çalıştırın:  
-```sh
+```
 python main.py
-```sh
+```
+Uygulama, https://www.sabah.com.tr/istanbul-namaz-vakitleri adresinden iftar ve sahur vakitlerini çeker.
+Eğer ses çalmıyorsa, Ezan.wav dosyasının proje dizininde olduğundan emin olun.
+Windows kullanıcıları için pygame ve playsound kütüphaneleri arasında otomatik geçiş yapılmaktadır.

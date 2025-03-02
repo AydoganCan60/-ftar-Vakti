@@ -18,3 +18,9 @@ Bu proje **Python 3.8+** ile çalışmaktadır. Gerekli bağımlılıkları yük
 
 ```sh
 pip install -r requirements.txt
+```
+### 2️⃣ Projeyi Çalıştırın
+Daha sonra, bağımlılıkları yükledikten sonra bu komutu çalıştırın:  
+```sh
+python main.py
+```sh

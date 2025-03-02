@@ -10,6 +10,7 @@ Bu Python uygulaması, İstanbul için iftar (akşam ezanı) ve sahur (imsak) va
 
 ## 🛠 Gereksinimler
 Bu proje **Python 3.8+** ile çalışmaktadır. Gerekli bağımlılıkları yüklemek için aşağıdaki adımları takip edin.
+Bir adet Ezan.wav dosyası main.py dosyası neredeyse o klasörün içerisinde bulunmalıdır! Yoksa ezan sesi çalmaz.
 
 ## 📥 Kurulum
 

@@ -40,3 +40,6 @@ Eğer ezan sesi çalmıyorsa, Ezan.wav dosyasının proje klasöründe olduğund
 Windows kullanıcıları için pygame ve playsound kütüphaneleri arasında otomatik geçiş yapılmaktadır.
 
 Sürekli olarak apiye istek atmaması için proje yerel dizininde vakitler.json adında bir json dosyası kaydeder gün geçtikçe program bunu algılayıp eskisini siler şu anki günün verisini kaydeder.
+
+
+**Eklenen Anahtar Kelimeler:** ramazan

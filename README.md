@@ -17,15 +17,15 @@ Bir adet Ezan.wav dosyası, main.py ile aynı klasörde bulunmalıdır. Aksi hal
 1️⃣ Gerekli bağımlılıkları yükleyin
 
 Öncelikle bağımlılıkları yüklemek için şu komutu çalıştırın:
-
-pip install -r requirements.txt  
-
+```
+pip install -r req.txt  
+```
 2️⃣ Uygulamayı Çalıştırın
 
 Bağımlılıkları yükledikten sonra uygulamayı başlatmak için:
-
+```
 python main.py  
-
+```
 🖥️ Ekran Görüntüsü
 
 ![resim](https://github.com/user-attachments/assets/706c0c80-d69b-4f2a-9c46-efc4ebea2056)

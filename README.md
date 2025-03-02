@@ -18,7 +18,7 @@ Bir adet Ezan.wav dosyası main.py dosyası neredeyse o klasörün içerisinde b
 Öncelikle, bağımlılıkları yüklemek için şu komutu çalıştırın:  
 
 ```sh
-pip install -r requirements.txt
+pip install -r req.txt
 ```
 ### 2️⃣ Projeyi Çalıştırın
 Daha sonra, bağımlılıkları yükledikten sonra bu komutu çalıştırın:  

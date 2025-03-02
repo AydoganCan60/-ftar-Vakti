@@ -1,4 +1,4 @@
-![resim](https://github.com/user-attachments/assets/813b9d44-4ba2-4b5f-8c43-d7b112d9031b)# 🕌 İftar & Sahur Sayacı
+# 🕌 İftar & Sahur Sayacı
 
 Bu Python uygulaması, İstanbul için iftar (akşam ezanı) ve sahur (imsak) vakitlerini otomatik olarak çekerek geri sayım yapar. Vakit geldiğinde ezan sesi çalar.  
 
